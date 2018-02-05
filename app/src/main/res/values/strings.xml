@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinApp</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- sign_in_activity -->
+    <string name="sign_in_activity_username">Nombre de usuario</string>
+    <string name="sign_in_activity_password">Contraseña</string>
+    <string name="sign_in_activity_sign_in">Acceder</string>
+</resources>

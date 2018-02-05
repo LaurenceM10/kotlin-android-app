@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- activity_sign_in -->
+    <dimen name="sign_in_activity_padding">20dp</dimen>
+</resources>
